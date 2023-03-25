@@ -29,3 +29,5 @@ Instruções do que se testar em sua aplicação e como devem ser feitos, tais c
 ## Estação Terminal
 
 Acaba que eu aprendi mesmo mais pelos linters do VSCode (que aconselho procurar) do que olhando pra guias, mas, às vezes eles são úteis, então é bom tê-los ao alcance das mãos!
+
+Não tenho mais linhas para te recomendar também, então fique livre para dar uma olhada nas linhas que ainda não viu!
