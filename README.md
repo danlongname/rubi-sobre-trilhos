@@ -1,10 +1,8 @@
-# Seja Bem-Vindo
-Aviso: Uma versão 2.0 de todo o processo está sendo desenvolvida, acredito que fugi um pouco da ideia dos guias rápidos e compartilhamento de experiências, acabou que eu só terminei linkando várias fontes de estudos que não era o objetivo do repositório.
+# Introdução
+A ideia desse repositório é te guiar pelo mesmo caminho que eu segui e compartilhar minhas experiências.
 
-A nova versão também terá as documentações, mas em uma área específica pra elas, caso você prefira ler mesmo.
-## Acesse a Wiki para acessar a todo conteúdo!
-Conhecimento separado em etapas para fácil digestão!
-### [Embarcar! :bullettrain_front:](https://github.com/danlongname/rubi-sobre-trilhos/wiki)
-## Feedback? Dúvida? Sugestões?
-Ou achou algum conteúdo melhor do que os daqui e gostaria de vê-lo ser acrescentado ou substituir outro conteúdo?
-### [Crie uma discussão! :rocket:](https://github.com/danlongname/rubi-sobre-trilhos/discussions/categories/deixe-seu-coment%C3%A1rio)
+Vamos começar por preparar o ambiente, conhecer sites com desafios para que você aprenda na prática e também manter as boas práticas usando ferramentas específicas pra isso.
+
+Então, vamos lá?
+
+### [Embarque nessa jornada! :train:](https://github.com/danlongname/rubi-sobre-trilhos/tree/version_2.0.0/preparando_o_ambiente)
