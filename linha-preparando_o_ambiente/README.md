@@ -165,4 +165,9 @@ rake db:create
 rails server
 ```
 
-Acesse http://localhost:3000 e veja seu server rodando :)
+Acesse [http://localhost:3000](http://localhost:3000) e veja seu server rodando :)
+
+## Estação Terminal
+
+É isso, agora você já tem tudo preparado pra começar a programar! Mas ainda tenho mais algumas recomendações pra você, sugiro que siga para a Linha: [Aprendendo na Prática](https://github.com/danlongname/rubi-sobre-trilhos/blob/main/linha-aprendendo_na_pratica/README.md).
+
