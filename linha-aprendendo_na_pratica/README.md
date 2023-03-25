@@ -21,3 +21,5 @@ Um site divertido e interativo que permite experimentar código Ruby no seu nave
 ## Estação Terminal
 
 Eu tinha intenção de colocar mais desafios aqui, personalizados, de níveis diferentes, entretanto, agora não posso mais acessar o ChatGPT então eu não posso fazer isso :)
+
+Então, em vez disso, que tal ir dar uma olhada nas [Boas Práticas :train:](https://github.com/danlongname/rubi-sobre-trilhos/blob/main/linha-boas_praticas/README.md)?
