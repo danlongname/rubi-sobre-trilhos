@@ -22,10 +22,10 @@ Este guia de estilo Ruby recomenda as melhores práticas para que os programador
 
 Better Specs é uma coleção de melhores práticas que os desenvolvedores aprenderam enquanto testavam aplicativos que você pode usar para melhorar suas habilidades de codificação ou simplesmente para inspiração. Better Specs nasceu na Lelylan (plataforma de nuvem IoT de código aberto) e verificar sua suíte de teste pode ser inspirador.
 
-### [testRigor](https://testrigor.com/ruby-on-rails-testing/
+### [testRigor](https://testrigor.com/ruby-on-rails-testing/)
 
 Instruções do que se testar em sua aplicação e como devem ser feitos, tais como testes unitários, de integração e sistema.
 
 ## Estação Terminal
 
-Acaba que eu aprendi mesmo mais pelos linters do VSCode do que olhando pra guias, mas, às vezes eles são úteis, então é bom tê-los ao alcance das mãos!
+Acaba que eu aprendi mesmo mais pelos linters do VSCode (que aconselho procurar) do que olhando pra guias, mas, às vezes eles são úteis, então é bom tê-los ao alcance das mãos!
