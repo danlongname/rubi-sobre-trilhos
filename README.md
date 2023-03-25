@@ -8,4 +8,4 @@ Então, vamos lá? Começar pela linha: Preparando o Ambiente?
 ### [Embarque nessa jornada! :train:](https://github.com/danlongname/rubi-sobre-trilhos/blob/main/linha-preparando_o_ambiente/README.md)
 
 ## Deseja Colaborar?
-Feedback? Problemas? Sugestões? Você está livre pra criar issues e fazer fork do repositório e enviar suas próprias alterações 9que passarão por revisão e possível edição por minha parte!).
+Feedback? Problemas? Sugestões? Você está livre pra criar issues e fazer fork do repositório e enviar suas próprias alterações (que passarão por revisão e possível edição por minha parte!).
