@@ -4,25 +4,19 @@ Para entrar na área eu fiz um treinamento de imersão web pela [Campus Code](ht
 
 ## Cursos Interativos
 
-### Codecademy
+### [Codecademy](https://www.codecademy.com/learn/learn-rails)
 
 Uma escola online de código renomada que oferece cursos gratuitos de programação, incluindo Ruby on Rails. Você aprenderá a construir aplicações web com Rails, gerenciar versões com Git e implantar seus projetos no Heroku. (Agora que não tem mais Heroku gratuito, como faz?)
 
-https://www.codecademy.com/learn/learn-rails
-
-### Rails for Zombies
+### [Rails for Zombies](https://www.pluralsight.com/courses/code-school-rails-for-zombies)
 
 (esse site é pago, mas você pode aproveitar o teste de 10 dias gratúitos)
 
 Um site gamificado que ensina Rails construindo uma aplicação temática de zumbis. Você aprenderá a usar modelos, visões, controladores, rotas, migrações, associações, validações e muito mais.
 
-https://www.pluralsight.com/courses/code-school-rails-for-zombies
-
-### Try Ruby
+### [Try Ruby](https://try.ruby-lang.org/)
 
 Um site divertido e interativo que permite experimentar código Ruby no seu navegador. Você aprenderá o básico da sintaxe Ruby, estruturas de dados, métodos e classes.
-
-https://try.ruby-lang.org/
 
 ## Estação Terminal
 
