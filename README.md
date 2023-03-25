@@ -6,7 +6,7 @@ Vamos começar por preparar o ambiente, conhecer sites com desafios para que voc
 
 Então, vamos lá? Começar pela linha: Preparando o Ambiente?
 
-[Embarque nessa jornada! :train:](https://github.com/danlongname/rubi-sobre-trilhos/blob/main/linha-preparando_o_ambiente/README.md)
+[Embarque nessa jornada! :train:](https://github.com/danlongname/rubi-sobre-trilhos/blob/main/linhas/preparando-o-ambiente/README.md)
 
 ## Deseja Colaborar?
 
