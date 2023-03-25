@@ -14,20 +14,18 @@ Ela acaba instalando junto a gem Rubocop e a extensão [ruby-rubocop](https://ma
 
 ## Guias
 
-### Best Practices
+### [Best Practices](https://rubystyle.guide/)
 
 Este guia de estilo Ruby recomenda as melhores práticas para que os programadores Ruby do mundo real possam escrever código que possa ser mantido por outros programadores Ruby do mundo real. Um guia de estilo que reflete o uso real é usado, enquanto um guia de estilo que se apega a um ideal que foi rejeitado pelas pessoas a quem se destina corre o risco de não ser usado de forma alguma - não importa quão bom ele seja.
 
-https://rubystyle.guide/
-
-### Better Specs
+### [Better Specs](https://www.betterspecs.org/)
 
 Better Specs é uma coleção de melhores práticas que os desenvolvedores aprenderam enquanto testavam aplicativos que você pode usar para melhorar suas habilidades de codificação ou simplesmente para inspiração. Better Specs nasceu na Lelylan (plataforma de nuvem IoT de código aberto) e verificar sua suíte de teste pode ser inspirador.
 
-https://www.betterspecs.org/
-
-### testRigor
+### [testRigor](https://testrigor.com/ruby-on-rails-testing/
 
 Instruções do que se testar em sua aplicação e como devem ser feitos, tais como testes unitários, de integração e sistema.
 
-https://testrigor.com/ruby-on-rails-testing/
+## Estação Terminal
+
+Acaba que eu aprendi mesmo mais pelos linters do VSCode do que olhando pra guias, mas, às vezes eles são úteis, então é bom tê-los ao alcance das mãos!
