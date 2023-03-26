@@ -11,5 +11,3 @@ Então, vamos lá? Começar pela linha: Preparando o Ambiente?
 ## Deseja Colaborar?
 
 Feedback? Problemas? Sugestões? Você está livre pra criar issues! 
-
-Quer mandar Cheat Sheets, Documentações, Guias e/ou Tutoriais? Siga as definições de [Materiais de Referência](https://github.com/danlongname/rubi-sobre-trilhos/blob/main/materiais-de-referencia/README.md), faça um fork do projeto e envie com suas alterações!
