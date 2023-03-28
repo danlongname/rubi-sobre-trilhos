@@ -390,5 +390,3 @@ Em conclusão, isso é tudo que tenho pra compartilhar, se eu lembrar de mais al
 Aqui vai de você, procure um certificado, procure vagas de estágio, procure fazer um networking, faça um LinkedIn forte e fale se candidate para vagas! Mais uma vez, o google (e o chatGPT) são seus amigos, não deixe de procurar por **guias**, **tutoriais**, **cheat sheets** e **documentações**!
 
 Espero sucesso para você em sua jornada! :rocket:
-
----
