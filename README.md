@@ -40,7 +40,7 @@ Sempre que quiser abrir o WSL, use o Ubuntu pelo menu iniciar, ou crie outro ata
 
 Daqui pra frente, especificarei no heading se o passo é para um OS específico ou para todos.
 
-## Instalando Virtual Studio Code
+## Instalando Visual Studio Code
 
 Acesse a [página de downloads do VS Code](https://code.visualstudio.com/download) e selecione a versão específica do seu Sistema Operacional.
 
