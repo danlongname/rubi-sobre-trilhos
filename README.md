@@ -219,7 +219,7 @@ Com o GitHub Copilot, os desenvolvedores podem escrever código mais rapidamente
 
 O GitHub Copilot está em fase beta e atualmente está disponível apenas para um número limitado de usuários que se inscreveram no programa beta. A ferramenta tem gerado controvérsia na comunidade de desenvolvedores, especialmente em relação a questões de propriedade intelectual e segurança de código, uma vez que pode levar ao uso indevido de trechos de código protegidos por direitos autorais ou introduzir vulnerabilidades no código gerado.
 
-[Cadastre-se](https://github.com/features/copilot) para o trial ou por uma conta permanente] e instale a [extensão](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) do VS Code.
+[Cadastre-se](https://github.com/features/copilot) para o trial ou por uma conta permanente e instale a [extensão](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) do VS Code.
 
 ![WSL](https://user-images.githubusercontent.com/120118163/227725997-459c4117-1757-4614-9241-0c592b78142d.png)
 
