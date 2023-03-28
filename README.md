@@ -208,6 +208,7 @@ Acredito que o melhor jeito de aprender boas práticas é ter uma extensão apon
 Agora que você já tem o VS Code instalado e se você abriu dentro de um projeto Rails você vai encontrar no canto ícones, um deles é o de extensões e com ele vêm extensões recomendadas para seu projeto. Procure linters, eles vão ficar te incomodando toda vez que você digitar algo fora das boas práticas. Mas para algo mais específico tenho que recomendar:
 
 ### [Rails Full-Stack Extension Pack](https://marketplace.visualstudio.com/items?itemName=MateuszDrewniak.rails-full-stack-extension-pack)
+
 Vem com um monte de extensões muito úteis e algumas que não, para que tudo esteja instalado e funcionando corretamente, você terá que instalar algumas gems também, então prepare-se pra rodar no terminal os comandos que irão aparecer assim que você instalar a extensão e aparecer uma mensagem de erro dizendo que tal gem não está instalada e não pode ser encontrada.
 
 ## Guias
@@ -226,11 +227,11 @@ Better Specs é uma coleção de melhores práticas que os desenvolvedores apren
 
 Instruções do que se testar em sua aplicação e como devem ser feitos, tais como testes unitários, de integração e sistema.
 
-Em conclusão, isso é tudo que tenho pra compartilhar, se eu lembrar de mais algo ou achar algo interessante vou acrescentar aqui, e por último, deixo o que o ChatGPT 3.5 diz sobre os níveis de capacidade de desenvolvedores Ruby on Rails iniciantes, intermediários e avançados:
-
 ---
 
-## Para desenvolvedores Ruby on Rails, conhecimento básico pode incluir:
+Em conclusão, isso é tudo que tenho pra compartilhar, se eu lembrar de mais algo ou achar algo interessante vou acrescentar aqui, e por último, deixo o que o ChatGPT 3.5 diz sobre os níveis de capacidade de desenvolvedores Ruby on Rails iniciantes, intermediários e avançados:
+
+## Para desenvolvedores Ruby on Rails, conhecimento básico pode incluir
 
 * Compreensão dos princípios básicos da linguagem Ruby, como variáveis, tipos de dados, operadores e estruturas de controle de fluxo.
 * Conhecimento de como criar uma aplicação Ruby on Rails usando o comando rails new.
@@ -243,7 +244,7 @@ Em conclusão, isso é tudo que tenho pra compartilhar, se eu lembrar de mais al
 * Habilidade para usar o console do Rails para interagir com a aplicação e o banco de dados.
 * Compreensão de como iniciar o servidor web local e visualizar a aplicação em um navegador.
 
-## Para desenvolvedores Ruby on Rails, conhecimento intermediário pode incluir:
+## Para desenvolvedores Ruby on Rails, conhecimento intermediário pode incluir
 
 * Conhecimento sólido da sintaxe e estrutura da linguagem Ruby.
 * Compreensão dos principais conceitos do framework Ruby on Rails, como rotas, controladores, modelos, migrações e visualizações.
@@ -256,7 +257,7 @@ Em conclusão, isso é tudo que tenho pra compartilhar, se eu lembrar de mais al
 * Habilidade para usar o Git para controle de versionamento de código e trabalhar em equipe usando plataformas como GitHub.
 * Experiência em implantar aplicativos Ruby on Rails em servidores web, como Heroku ou AWS.
 
-## Para desenvolvedores Ruby on Rails, conhecimento avançado pode incluir:
+## Para desenvolvedores Ruby on Rails, conhecimento avançado pode incluir
 
 * Profundo conhecimento da arquitetura e design do framework Ruby on Rails.
 * Experiência em trabalhar com bibliotecas e gems de terceiros mais complexas e menos conhecidas.
@@ -273,7 +274,7 @@ Em conclusão, isso é tudo que tenho pra compartilhar, se eu lembrar de mais al
 
 ## Estação Terminal
 
-Aqui vai de você, procure um certificado, procure vagas de estágio, procure fazer um networking, faça um LinkedIn forte e fale se candidate para vagas!
+Aqui vai de você, procure um certificado, procure vagas de estágio, procure fazer um networking, faça um LinkedIn forte e fale se candidate para vagas! Mais uma vez, o google (e o chatGPT) são seus amigos, não deixe de procurar por **guias**, **tutoriais**, **cheat sheets** e **documentações**!
 
 Espero sucesso para você em sua jornada! :rocket:
 
