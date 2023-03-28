@@ -8,8 +8,6 @@ Lembre-se que pedir ajuda quando se está completamente perdido e quando se trat
 
 Então, sem mais delongas, vamos ao conteúdo!
 
----
-
 Daqui vamos preparar o ambiente para que você possa ir do zero até rodar o server localmente com o Rails.
 
 ## Ativando o WSL no Windows
