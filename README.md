@@ -201,7 +201,7 @@ Um site divertido e interativo que permite experimentar código Ruby no seu nave
 
 Acredito que o melhor jeito de aprender boas práticas é ter uma extensão apontando todos os seus erros constantemente enquanto você coda para que não cometa os mesmos erros novamente. Inclusive eu nem sei quando instalei a extensão [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) e ela está constantemente apontando erros nos meus README.md, e por consequencia eu estou cometendo menos erros. Então eu vou oferecer essa alternativa, junto com guias no final, que são pura leitura e nada interativos.
 
-## Gems e Extensões do VS Code
+## Extensões do VS Code
 
 Agora que você já tem o VS Code instalado e se você abriu dentro de um projeto Rails você vai encontrar no canto ícones, um deles é o de extensões e com ele vêm extensões recomendadas para seu projeto. Procure linters, eles vão ficar te incomodando toda vez que você digitar algo fora das boas práticas. Mas para algo mais específico tenho que recomendar:
 
@@ -212,6 +212,79 @@ Vem com um monte de extensões muito úteis e algumas que não, para que tudo es
 ![WSL](https://user-images.githubusercontent.com/120118163/227725997-459c4117-1757-4614-9241-0c592b78142d.png)
 
 Ao instalar uma extensão do VS Code no Windows, você precisará instalar também no ambiente WSL quando abrir o VS Code por lá, mas não é assim para todas as extensões, então fique atento as quais extensões têm esses requisitos.
+
+## Instalando gems
+
+### Com o Gemfile
+
+* Abra o arquivo Gemfile na raiz do seu projeto.
+* Adicione a linha gem 'nome_da_gema' para a gema que deseja instalar, substituindo "nome_da_gema" pelo nome da gema que deseja instalar.
+* Salve o arquivo Gemfile.
+* Abra um terminal na raiz do seu projeto e execute o comando bundle install. Isso irá instalar todas as gems listadas no arquivo Gemfile.
+* Se estiver instalando gems sem o Gemfile, é importante verificar as dependências manualmente e instalá-las conforme necessário.
+
+### Sem o Gemfile
+
+* Abra um terminal na raiz do seu projeto.
+* Execute o comando gem install nome_da_gema, substituindo "nome_da_gema" pelo nome da gema que deseja instalar.
+* Repita o comando gem install para cada gema adicional que deseja instalar.
+* Lembre-se de que, se estiver usando o Gemfile, todas as gems devem ser instaladas com o comando bundle install para garantir que as dependências sejam resolvidas corretamente.
+
+## Gems Recomendadas
+
+### [Solargraph](https://github.com/castwide/solargraph)
+Biblioteca Ruby que fornece recursos avançados de inteligência artificial para ajudar no desenvolvimento de aplicativos Ruby, incluindo autocompletar e documentação em tempo real. 
+
+Sinceramente, não sei como funciona, mas é requisito da extensão Solargraph, então né.
+
+Para instalar, adicione tanto solargraph e solargraph-rails ao seu gemfile.
+
+```Gemfile
+gem 'solargraph'
+gem 'solargraph-rails'
+```
+
+Configure o solargraph.yml para rodar o plugin **solagraph-rails**
+
+```bash
+solargraph config
+```
+
+Daí seu solargraph.yml será criado, nele altere o plugin:
+
+```yaml
+plugins:
+  - solargraph-rails
+ ```
+
+### [RSpec-rails](https://rspec.info/documentation/6.0/rspec-rails/)
+Biblioteca de teste BDD (Behavior-Driven Development) para Ruby. Ele fornece uma estrutura de teste expressiva e flexível que é fácil de ler e escrever. É uma das bibliotecas de teste mais populares para Ruby on Rails e é frequentemente usada para testar controladores, modelos e outros componentes do Rails.
+
+Adicione ao seu Gemfile:
+
+```Gemfile
+group :development, :test do
+  gem 'rspec-rails', '~> 6.0.0'
+end
+```
+
+Documentação das gems que são instaladas juntas ao RSpec-rails: [rspec-core](https://rspec.info/documentation/3.12/rspec-core/), [rspec-expectations](https://rspec.info/documentation/3.12/rspec-expectations/), [rspec-mocks](https://rspec.info/documentation/3.12/rspec-mocks/).
+
+### [Capybara](https://github.com/teamcapybara/capybara)
+Biblioteca de teste para simular interações de usuário em um navegador. Ele permite testar sua aplicação como um usuário real, clicando em links, preenchendo formulários e verificando resultados. Capybara é uma ótima escolha para testes de integração em Rails.
+
+```Gemfile
+gem 'capybara'
+```
+
+### Factory Bot
+Biblioteca para criar objetos de modelo de maneira fácil e rápida em seus testes. Ele é usado para gerar dados de teste para seus modelos e simplificar o processo de criação de objetos em seus testes.
+
+### SimpleCov:
+Biblioteca de cobertura de teste que fornece relatórios de cobertura de código em HTML. Ele permite que você veja quais partes do seu código são testadas e quais não são. SimpleCov é uma ótima maneira de garantir que você esteja testando todo o seu código.
+
+### Faker
+Biblioteca para gerar dados falsos em seus testes. Ele é útil para criar dados de teste realistas, como nomes, endereços e números de telefone.
 
 ## Guias
 
@@ -224,10 +297,6 @@ Este guia de estilo Ruby recomenda as melhores práticas para que os programador
 ### [Better Specs](https://www.betterspecs.org/)
 
 Better Specs é uma coleção de melhores práticas que os desenvolvedores aprenderam enquanto testavam aplicativos que você pode usar para melhorar suas habilidades de codificação ou simplesmente para inspiração. Better Specs nasceu na Lelylan (plataforma de nuvem IoT de código aberto) e verificar sua suíte de teste pode ser inspirador.
-
-### [testRigor](https://testrigor.com/ruby-on-rails-testing/)
-
-Instruções do que se testar em sua aplicação e como devem ser feitos, tais como testes unitários, de integração e sistema.
 
 ---
 
