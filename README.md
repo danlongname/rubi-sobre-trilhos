@@ -207,7 +207,19 @@ Agora que você já tem o VS Code instalado e se você abriu dentro de um projet
 
 ### [Rails Full-Stack Extension Pack](https://marketplace.visualstudio.com/items?itemName=MateuszDrewniak.rails-full-stack-extension-pack)
 
-Vem com um monte de extensões muito úteis e algumas que não, para que tudo esteja instalado e funcionando corretamente, você terá que instalar algumas gems também, então prepare-se pra rodar no terminal os comandos que irão aparecer assim que você instalar a extensão e aparecer uma mensagem de erro dizendo que tal gem não está instalada e não pode ser encontrada.
+Vem com um monte de extensões muito úteis e algumas okay, para que tudo esteja instalado e funcionando corretamente, você terá que instalar algumas gems também, então prepare-se pra rodar no terminal os comandos que irão aparecer assim que você instalar a extensão e aparecer uma mensagem de erro dizendo que tal gem não está instalada e não pode ser encontrada.
+
+### GitHub Copilot
+
+Vou deixar toda a descrição do chatGPT sobre ela aqui, parece importante ler:
+
+GitHub Copilot é um assistente de programação alimentado por Inteligência Artificial, desenvolvido pela Microsoft e GitHub. Ele usa o GPT (Generative Pre-trained Transformer) - uma técnica de aprendizado profundo usada em linguagem natural - para gerar trechos de código automaticamente, com base no contexto do código existente e nos comentários do desenvolvedor.
+
+Com o GitHub Copilot, os desenvolvedores podem escrever código mais rapidamente, economizando tempo na digitação e evitando a necessidade de procurar soluções em fóruns ou documentação. O assistente é integrado diretamente ao editor de código Visual Studio Code, permitindo que os desenvolvedores obtenham sugestões de código em tempo real à medida que digitam.
+
+O GitHub Copilot está em fase beta e atualmente está disponível apenas para um número limitado de usuários que se inscreveram no programa beta. A ferramenta tem gerado controvérsia na comunidade de desenvolvedores, especialmente em relação a questões de propriedade intelectual e segurança de código, uma vez que pode levar ao uso indevido de trechos de código protegidos por direitos autorais ou introduzir vulnerabilidades no código gerado.
+
+[Cadastre-se](https://github.com/features/copilot) para o trial ou por uma conta permanente] e instale a [extensão](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) do VS Code.
 
 ![WSL](https://user-images.githubusercontent.com/120118163/227725997-459c4117-1757-4614-9241-0c592b78142d.png)
 
@@ -232,8 +244,11 @@ Ao instalar uma extensão do VS Code no Windows, você precisará instalar tamb�
 
 ## Gems Recomendadas
 
+Adianto que tem bastante coisa pra ler sobre essas gems e os links estão nos headers. Mas aprender lendo, mais uma vez, faz parte do seu trabalho. Só que você também pode procurar algum guia na internet, deve ter em algum canto.
+
 ### [Solargraph](https://github.com/castwide/solargraph)
-Biblioteca Ruby que fornece recursos avançados de inteligência artificial para ajudar no desenvolvimento de aplicativos Ruby, incluindo autocompletar e documentação em tempo real. 
+
+Biblioteca Ruby que fornece recursos avançados de inteligência artificial para ajudar no desenvolvimento de aplicativos Ruby, incluindo autocompletar e documentação em tempo real.
 
 Sinceramente, não sei como funciona, mas é requisito da extensão Solargraph, então né.
 
@@ -258,6 +273,7 @@ plugins:
  ```
 
 ### [RSpec-rails](https://rspec.info/documentation/6.0/rspec-rails/)
+
 Biblioteca de teste BDD (Behavior-Driven Development) para Ruby. Ele fornece uma estrutura de teste expressiva e flexível que é fácil de ler e escrever. É uma das bibliotecas de teste mais populares para Ruby on Rails e é frequentemente usada para testar controladores, modelos e outros componentes do Rails.
 
 Adicione ao seu Gemfile:
@@ -271,20 +287,46 @@ end
 Documentação das gems que são instaladas juntas ao RSpec-rails: [rspec-core](https://rspec.info/documentation/3.12/rspec-core/), [rspec-expectations](https://rspec.info/documentation/3.12/rspec-expectations/), [rspec-mocks](https://rspec.info/documentation/3.12/rspec-mocks/).
 
 ### [Capybara](https://github.com/teamcapybara/capybara)
+
 Biblioteca de teste para simular interações de usuário em um navegador. Ele permite testar sua aplicação como um usuário real, clicando em links, preenchendo formulários e verificando resultados. Capybara é uma ótima escolha para testes de integração em Rails.
+
+Adicione ao seu Gemfile:
 
 ```Gemfile
 gem 'capybara'
 ```
 
-### Factory Bot
+### [Factory Bot](https://github.com/thoughtbot/factory_bot/blob/main/GETTING_STARTED.md)
+
 Biblioteca para criar objetos de modelo de maneira fácil e rápida em seus testes. Ele é usado para gerar dados de teste para seus modelos e simplificar o processo de criação de objetos em seus testes.
 
-### SimpleCov:
+Adicione ao seu Gemfile:
+
+```Gemfile
+group :development, :test do
+  gem 'factory_bot_rails'
+end
+```
+
+### [SimpleCov](https://github.com/simplecov-ruby/simplecov)
+
 Biblioteca de cobertura de teste que fornece relatórios de cobertura de código em HTML. Ele permite que você veja quais partes do seu código são testadas e quais não são. SimpleCov é uma ótima maneira de garantir que você esteja testando todo o seu código.
 
-### Faker
+Adicione ao seu Gemfile:
+
+```Gemfile
+gem 'simplecov', require: false, group: :test
+```
+
+### [Faker](https://github.com/faker-ruby/faker)
+
 Biblioteca para gerar dados falsos em seus testes. Ele é útil para criar dados de teste realistas, como nomes, endereços e números de telefone.
+
+Adicione ao seu Gemfile:
+
+```Gemfile
+gem 'faker'
+```
 
 ## Guias
 
