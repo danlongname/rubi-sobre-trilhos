@@ -271,6 +271,10 @@ Em conclusão, isso é tudo que tenho pra compartilhar, se eu lembrar de mais al
 
 ---
 
+## Estação Terminal
+
+Aqui vai de você, procure um certificado, procure vagas de estágio, procure fazer um networking, faça um LinkedIn forte e fale se candidate para vagas!
+
 Espero sucesso para você em sua jornada! :rocket:
 
 ---
