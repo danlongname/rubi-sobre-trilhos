@@ -209,6 +209,10 @@ Agora que você já tem o VS Code instalado e se você abriu dentro de um projet
 
 Vem com um monte de extensões muito úteis e algumas que não, para que tudo esteja instalado e funcionando corretamente, você terá que instalar algumas gems também, então prepare-se pra rodar no terminal os comandos que irão aparecer assim que você instalar a extensão e aparecer uma mensagem de erro dizendo que tal gem não está instalada e não pode ser encontrada.
 
+![WSL](https://user-images.githubusercontent.com/120118163/227725997-459c4117-1757-4614-9241-0c592b78142d.png)
+
+Ao instalar uma extensão do VS Code no Windows, você precisará instalar também no ambiente WSL quando abrir o VS Code por lá, mas não é assim para todas as extensões, então fique atento as quais extensões têm esses requisitos.
+
 ## Guias
 
 Lembra que eu disse que ler era importante e aprender por conta própria também? Bom, aqui vai material de leitura! Que com certeza te tornará um profissional melhor e mais preparado pro mercado de trabalho!
