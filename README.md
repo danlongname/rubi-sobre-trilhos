@@ -181,11 +181,25 @@ Acesse [http://localhost:3000](http://localhost:3000) e veja seu server rodando 
 
 É isso, agora você já tem tudo preparado pra começar a programar! Mas ainda tenho mais sugestões para você, então, continue lendo!
 
----
+## Guias
+
+Ler e aprender por conta própria é extremamente importante! Lá vêm material de leitura! Que com certeza te tornará um profissional melhor e mais preparado pro mercado de trabalho!
+
+### [Ruby on Rails Guides](https://guides.rubyonrails.org/index.html)
+
+Nada melhor do que o guia oficial da framework, não é mesmo? E com a simples proposta de: "Esses guias foram criados para torná-lo imediatamente produtivo com Rails e para ajudá-lo a entender como todas as peças se encaixam." você está em boas mãos, com certeza! Por isso, ignoramos a ordem alfabética aqui e colocamos o guia oficial acima dos guias de boas práticas.
+
+### [Best Practices](https://rubystyle.guide/)
+
+Este guia de estilo Ruby recomenda as melhores práticas para que os programadores Ruby do mundo real possam escrever código que possa ser mantido por outros programadores Ruby do mundo real. Um guia de estilo que reflete o uso real é usado, enquanto um guia de estilo que se apega a um ideal que foi rejeitado pelas pessoas a quem se destina corre o risco de não ser usado de forma alguma - não importa quão bom ele seja.
+
+### [Better Specs](https://www.betterspecs.org/)
+
+Better Specs é uma coleção de melhores práticas que os desenvolvedores aprenderam enquanto testavam aplicativos que você pode usar para melhorar suas habilidades de codificação ou simplesmente para inspiração. Better Specs nasceu na Lelylan (plataforma de nuvem IoT de código aberto) e verificar sua suíte de teste pode ser inspirador.
+
+## Cursos e Bootcamps
 
 Para entrar na área eu fiz um treinamento de imersão web pela [Campus Code](https://www.campuscode.com.br/), participando do programa [TreinaDev](https://treinadev.com.br/). Aprender com prática foi um método muito eficaz pra mim, mas como não posso sair recomendando a todo mundo ficar esperando turmas do TreinaDev abrir o tempo todo, além de que as vagas são poucas e a competição é enorme, então se eu descobrir outros processos como esse, vou marcar aqui porque eu achei super útil, enquanto isso, vou indicar outros sites que fazem papel de aprendizado interativo.
-
-## Cursos Interativos
 
 ### [Codecademy](https://www.codecademy.com/learn/learn-rails)
 
@@ -200,154 +214,6 @@ Um site gamificado que ensina Rails construindo uma aplicação temática de zum
 ### [Try Ruby](https://try.ruby-lang.org/)
 
 Um site divertido e interativo que permite experimentar código Ruby no seu navegador. Você aprenderá o básico da sintaxe Ruby, estruturas de dados, métodos e classes.
-
----
-
-Acredito que o melhor jeito de aprender boas práticas é ter uma extensão apontando todos os seus erros constantemente enquanto você coda para que não cometa os mesmos erros novamente. Inclusive eu nem sei quando instalei a extensão [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) e ela está constantemente apontando erros nos meus README.md, e por consequencia eu estou cometendo menos erros. Então eu vou oferecer essa alternativa, junto com guias no final, que são pura leitura e nada interativos.
-
-## Extensões do VS Code
-
-Agora que você já tem o VS Code instalado e se você abriu dentro de um projeto Rails você vai encontrar no canto ícones, um deles é o de extensões e com ele vêm extensões recomendadas para seu projeto. Procure linters, eles vão ficar te incomodando toda vez que você digitar algo fora das boas práticas. Mas para algo mais específico tenho que recomendar:
-
-### [Rails Full-Stack Extension Pack](https://marketplace.visualstudio.com/items?itemName=MateuszDrewniak.rails-full-stack-extension-pack)
-
-Vem com um monte de extensões muito úteis e algumas okay, para que tudo esteja instalado e funcionando corretamente, você terá que instalar algumas gems também, então prepare-se pra rodar no terminal os comandos que irão aparecer assim que você instalar a extensão e aparecer uma mensagem de erro dizendo que tal gem não está instalada e não pode ser encontrada.
-
-### GitHub Copilot
-
-Vou deixar toda a descrição do chatGPT sobre ela aqui, parece importante ler:
-
-GitHub Copilot é um assistente de programação alimentado por Inteligência Artificial, desenvolvido pela Microsoft e GitHub. Ele usa o GPT (Generative Pre-trained Transformer) - uma técnica de aprendizado profundo usada em linguagem natural - para gerar trechos de código automaticamente, com base no contexto do código existente e nos comentários do desenvolvedor.
-
-Com o GitHub Copilot, os desenvolvedores podem escrever código mais rapidamente, economizando tempo na digitação e evitando a necessidade de procurar soluções em fóruns ou documentação. O assistente é integrado diretamente ao editor de código Visual Studio Code, permitindo que os desenvolvedores obtenham sugestões de código em tempo real à medida que digitam.
-
-O GitHub Copilot está em fase beta e atualmente está disponível apenas para um número limitado de usuários que se inscreveram no programa beta. A ferramenta tem gerado controvérsia na comunidade de desenvolvedores, especialmente em relação a questões de propriedade intelectual e segurança de código, uma vez que pode levar ao uso indevido de trechos de código protegidos por direitos autorais ou introduzir vulnerabilidades no código gerado.
-
-[Cadastre-se](https://github.com/features/copilot) para o trial ou por uma conta permanente e instale a [extensão](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) do VS Code.
-
-![WSL](https://user-images.githubusercontent.com/120118163/227725997-459c4117-1757-4614-9241-0c592b78142d.png)
-
-Ao instalar uma extensão do VS Code no Windows, você precisará instalar também no ambiente WSL quando abrir o VS Code por lá, mas não é assim para todas as extensões, então fique atento as quais extensões têm esses requisitos.
-
-## Instalando gems
-
-### Com o Gemfile
-
-* Abra o arquivo Gemfile na raiz do seu projeto.
-* Adicione a linha gem 'nome_da_gema' para a gema que deseja instalar, substituindo "nome_da_gema" pelo nome da gema que deseja instalar.
-* Salve o arquivo Gemfile.
-* Abra um terminal na raiz do seu projeto e execute o comando bundle install. Isso irá instalar todas as gems listadas no arquivo Gemfile.
-* Se estiver instalando gems sem o Gemfile, é importante verificar as dependências manualmente e instalá-las conforme necessário.
-
-### Sem o Gemfile
-
-* Abra um terminal na raiz do seu projeto.
-* Execute o comando gem install nome_da_gema, substituindo "nome_da_gema" pelo nome da gema que deseja instalar.
-* Repita o comando gem install para cada gema adicional que deseja instalar.
-* Lembre-se de que, se estiver usando o Gemfile, todas as gems devem ser instaladas com o comando bundle install para garantir que as dependências sejam resolvidas corretamente.
-
-## Gems Recomendadas
-
-Adianto que tem bastante coisa pra ler sobre essas gems e os links estão nos headers. Mas aprender lendo, mais uma vez, faz parte do seu trabalho. Só que você também pode procurar algum guia na internet, deve ter em algum canto.
-
-### [Solargraph](https://github.com/castwide/solargraph)
-
-Biblioteca Ruby que fornece recursos avançados de inteligência artificial para ajudar no desenvolvimento de aplicativos Ruby, incluindo autocompletar e documentação em tempo real.
-
-Sinceramente, não sei como funciona, mas é requisito da extensão Solargraph, então né.
-
-Para instalar, adicione tanto solargraph e solargraph-rails ao seu gemfile.
-
-```Gemfile
-gem 'solargraph'
-gem 'solargraph-rails'
-```
-
-Configure o solargraph.yml para rodar o plugin **solagraph-rails**
-
-```bash
-solargraph config
-```
-
-Daí seu solargraph.yml será criado, nele altere o plugin:
-
-```yaml
-plugins:
-  - solargraph-rails
- ```
-
-### [RSpec-rails](https://rspec.info/documentation/6.0/rspec-rails/)
-
-Biblioteca de teste BDD (Behavior-Driven Development) para Ruby. Ele fornece uma estrutura de teste expressiva e flexível que é fácil de ler e escrever. É uma das bibliotecas de teste mais populares para Ruby on Rails e é frequentemente usada para testar controladores, modelos e outros componentes do Rails.
-
-Adicione ao seu Gemfile:
-
-```Gemfile
-group :development, :test do
-  gem 'rspec-rails', '~> 6.0.0'
-end
-```
-
-Documentação das gems que são instaladas juntas ao RSpec-rails: [rspec-core](https://rspec.info/documentation/3.12/rspec-core/), [rspec-expectations](https://rspec.info/documentation/3.12/rspec-expectations/), [rspec-mocks](https://rspec.info/documentation/3.12/rspec-mocks/).
-
-### [Capybara](https://github.com/teamcapybara/capybara)
-
-Biblioteca de teste para simular interações de usuário em um navegador. Ele permite testar sua aplicação como um usuário real, clicando em links, preenchendo formulários e verificando resultados. Capybara é uma ótima escolha para testes de integração em Rails.
-
-Adicione ao seu Gemfile:
-
-```Gemfile
-gem 'capybara'
-```
-
-### [Factory Bot](https://github.com/thoughtbot/factory_bot/blob/main/GETTING_STARTED.md)
-
-Biblioteca para criar objetos de modelo de maneira fácil e rápida em seus testes. Ele é usado para gerar dados de teste para seus modelos e simplificar o processo de criação de objetos em seus testes.
-
-Adicione ao seu Gemfile:
-
-```Gemfile
-group :development, :test do
-  gem 'factory_bot_rails'
-end
-```
-
-### [SimpleCov](https://github.com/simplecov-ruby/simplecov)
-
-Biblioteca de cobertura de teste que fornece relatórios de cobertura de código em HTML. Ele permite que você veja quais partes do seu código são testadas e quais não são. SimpleCov é uma ótima maneira de garantir que você esteja testando todo o seu código.
-
-Adicione ao seu Gemfile:
-
-```Gemfile
-gem 'simplecov', require: false, group: :test
-```
-
-### [Faker](https://github.com/faker-ruby/faker)
-
-Biblioteca para gerar dados falsos em seus testes. Ele é útil para criar dados de teste realistas, como nomes, endereços e números de telefone.
-
-Adicione ao seu Gemfile:
-
-```Gemfile
-gem 'faker'
-```
-
-## Guias
-
-Lembra que eu disse que ler era importante e aprender por conta própria também? Bom, aqui vai material de leitura! Que com certeza te tornará um profissional melhor e mais preparado pro mercado de trabalho!
-
-### [Ruby on Rails Guides](https://guides.rubyonrails.org/index.html)
-Nada melhor do que o guia oficial da framework, não é mesmo? E com a simples proposta de: "Esses guias foram criados para torná-lo imediatamente produtivo com Rails e para ajudá-lo a entender como todas as peças se encaixam." você está em boas mãos, com certeza! Por isso, ignoramos a ordem alfabética aqui e colocamos o guia oficial acima dos guias de boas práticas.
-
-### [Best Practices](https://rubystyle.guide/)
-
-Este guia de estilo Ruby recomenda as melhores práticas para que os programadores Ruby do mundo real possam escrever código que possa ser mantido por outros programadores Ruby do mundo real. Um guia de estilo que reflete o uso real é usado, enquanto um guia de estilo que se apega a um ideal que foi rejeitado pelas pessoas a quem se destina corre o risco de não ser usado de forma alguma - não importa quão bom ele seja.
-
-### [Better Specs](https://www.betterspecs.org/)
-
-Better Specs é uma coleção de melhores práticas que os desenvolvedores aprenderam enquanto testavam aplicativos que você pode usar para melhorar suas habilidades de codificação ou simplesmente para inspiração. Better Specs nasceu na Lelylan (plataforma de nuvem IoT de código aberto) e verificar sua suíte de teste pode ser inspirador.
-
----
 
 ## Noções desejáveis
 
@@ -391,8 +257,6 @@ Tiradas do nosso querido ChatGPT, essas seriam noções que variam de básicas, 
 * Habilidade para escrever código limpo e legível, seguindo boas práticas de programação e padrões de design.
 * Experiência em trabalhar em projetos grandes e complexos em equipe, usando ferramentas de colaboração, como Trello, Slack e Jira.
 * Conhecimento em implantar e gerenciar aplicativos Ruby on Rails em servidores de produção, incluindo tarefas de deploy, monitoramento e troubleshooting.
-
----
 
 ## Estação Terminal
 
