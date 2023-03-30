@@ -335,7 +335,7 @@ gem 'faker'
 Lembra que eu disse que ler era importante e aprender por conta própria também? Bom, aqui vai material de leitura! Que com certeza te tornará um profissional melhor e mais preparado pro mercado de trabalho!
 
 ### [Ruby on Rails Guides](https://guides.rubyonrails.org/index.html)
-Nada melhor do que o guia oficial da framework, não é mesmo? E com a simples proposta de: "Esses guias foram criados para torná-lo imediatamente produtivo com Rails e para ajudá-lo a entender como todas as peças se encaixam." você está em boas mão, com certeza!
+Nada melhor do que o guia oficial da framework, não é mesmo? E com a simples proposta de: "Esses guias foram criados para torná-lo imediatamente produtivo com Rails e para ajudá-lo a entender como todas as peças se encaixam." você está em boas mãos, com certeza! Por isso, ignoramos a ordem alfabética aqui e colocamos o guia oficial acima dos guias de boas práticas.
 
 ### [Best Practices](https://rubystyle.guide/)
 
@@ -347,9 +347,11 @@ Better Specs é uma coleção de melhores práticas que os desenvolvedores apren
 
 ---
 
-Em conclusão, isso é tudo que tenho pra compartilhar, se eu lembrar de mais algo ou achar algo interessante vou acrescentar aqui, e por último, deixo o que o ChatGPT 3.5 diz sobre os níveis de capacidade de desenvolvedores Ruby on Rails iniciantes, intermediários e avançados:
+## Noções desejáveis
 
-## Para desenvolvedores Ruby on Rails, conhecimento básico pode incluir
+Tiradas do nosso querido ChatGPT, essas seriam noções que variam de básicas, intermediárias e avançadas que seriam muito bom obter para se tornar um bom desenvolvedor Ruby on Rails.
+
+### Lista de noções básicas
 
 * Compreensão dos princípios básicos da linguagem Ruby, como variáveis, tipos de dados, operadores e estruturas de controle de fluxo.
 * Conhecimento de como criar uma aplicação Ruby on Rails usando o comando rails new.
@@ -362,7 +364,7 @@ Em conclusão, isso é tudo que tenho pra compartilhar, se eu lembrar de mais al
 * Habilidade para usar o console do Rails para interagir com a aplicação e o banco de dados.
 * Compreensão de como iniciar o servidor web local e visualizar a aplicação em um navegador.
 
-## Para desenvolvedores Ruby on Rails, conhecimento intermediário pode incluir
+### Lista de noções intermediárias
 
 * Conhecimento sólido da sintaxe e estrutura da linguagem Ruby.
 * Compreensão dos principais conceitos do framework Ruby on Rails, como rotas, controladores, modelos, migrações e visualizações.
@@ -375,7 +377,7 @@ Em conclusão, isso é tudo que tenho pra compartilhar, se eu lembrar de mais al
 * Habilidade para usar o Git para controle de versionamento de código e trabalhar em equipe usando plataformas como GitHub.
 * Experiência em implantar aplicativos Ruby on Rails em servidores web, como Heroku ou AWS.
 
-## Para desenvolvedores Ruby on Rails, conhecimento avançado pode incluir
+### Lista de noções avançadas
 
 * Profundo conhecimento da arquitetura e design do framework Ruby on Rails.
 * Experiência em trabalhar com bibliotecas e gems de terceiros mais complexas e menos conhecidas.
