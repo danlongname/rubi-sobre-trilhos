@@ -199,21 +199,19 @@ Better Specs é uma coleção de melhores práticas que os desenvolvedores apren
 
 ## Cursos e Bootcamps
 
-Para entrar na área eu fiz um treinamento de imersão web pela [Campus Code](https://www.campuscode.com.br/), participando do programa [TreinaDev](https://treinadev.com.br/). Aprender com prática foi um método muito eficaz pra mim, mas como não posso sair recomendando a todo mundo ficar esperando turmas do TreinaDev abrir o tempo todo, além de que as vagas são poucas e a competição é enorme, então se eu descobrir outros processos como esse, vou marcar aqui porque eu achei super útil, enquanto isso, vou indicar outros sites que fazem papel de aprendizado interativo.
+Para entrar na área eu fiz um treinamento de imersão web pela [Campus Code](https://www.campuscode.com.br/), participando do programa [TreinaDev](https://treinadev.com.br/). Aprender com prática foi um método muito eficaz pra mim, então está no topo das recomendações, entretanto, você precisa ficar atento para a abertura de novas turmas e competir com outros aspirantes a desenvolvedores para seguir no programa.
 
 ### [Codecademy](https://www.codecademy.com/learn/learn-rails)
 
 Uma escola online de código renomada que oferece cursos gratuitos de programação, incluindo Ruby on Rails. Você aprenderá a construir aplicações web com Rails, gerenciar versões com Git e implantar seus projetos no Heroku. (Agora que não tem mais Heroku gratuito, como faz?)
 
-### [Rails for Zombies](https://www.pluralsight.com/courses/code-school-rails-for-zombies)
+### [freeCodeCamp](https://www.freecodecamp.org/)
 
-(esse site é pago, mas você pode aproveitar o teste de 10 dias gratúitos)
+Curso online gratuito de desenvolvimento web completo, que inclui módulos sobre Ruby on Rails. O curso ensina desde HTML e CSS até desenvolvimento back-end com Ruby on Rails.
 
-Um site gamificado que ensina Rails construindo uma aplicação temática de zumbis. Você aprenderá a usar modelos, visões, controladores, rotas, migrações, associações, validações e muito mais.
+### [OneBitCode](https://onebitcode.com/lp/)
 
-### [Try Ruby](https://try.ruby-lang.org/)
-
-Um site divertido e interativo que permite experimentar código Ruby no seu navegador. Você aprenderá o básico da sintaxe Ruby, estruturas de dados, métodos e classes.
+O One Bit Code oferece diversos cursos gratuitos sobre Ruby e Ruby on Rails, com aulas em vídeo e exercícios práticos. É possível aprender desde os conceitos básicos até temas avançados, como desenvolvimento de APIs e aplicações em tempo real. Você pode também aprender com o minicurso de [Minicurso de Testes para Ruby on Rails com RSpec](https://onebitcode.com/course/minicurso-de-testes/), muito recomendado.
 
 ## Noções desejáveis
 
@@ -257,6 +255,18 @@ Tiradas do nosso querido ChatGPT, essas seriam noções que variam de básicas, 
 * Habilidade para escrever código limpo e legível, seguindo boas práticas de programação e padrões de design.
 * Experiência em trabalhar em projetos grandes e complexos em equipe, usando ferramentas de colaboração, como Trello, Slack e Jira.
 * Conhecimento em implantar e gerenciar aplicativos Ruby on Rails em servidores de produção, incluindo tarefas de deploy, monitoramento e troubleshooting.
+
+## Comunidade
+
+Você definitivamente não está sozinho e com essas comunidades abaixo estará em boa companhia!
+
+### [Ruby Brasil](https://t.me/rubybrasil)
+
+Grupo no Telegram onde é possível interagir com outros desenvolvedores e ficar por dentro das novidades da área.
+
+### [Ruby on Rails Link](https://www.rubyonrails.link/)
+
+É um grupo no Slack que reúne uma comunidade global de desenvolvedores Ruby on Rails, onde é possível se conectar com outros profissionais, compartilhar conhecimentos, buscar ajuda e encontrar oportunidades de emprego. O grupo possui diversos canais de discussão sobre diferentes tópicos relacionados a Ruby on Rails, como desenvolvimento front-end, back-end, testes, segurança, dentre outros. Para participar, é necessário fazer um cadastro no site e receber um convite para entrar no Slack.
 
 ## Estação Terminal
 
