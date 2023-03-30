@@ -6,9 +6,9 @@ Vamos começar por preparar o ambiente, conhecer sites com desafios para que voc
 
 Lembre-se que pedir ajuda quando se está completamente perdido e quando se trata de algo específico do funcionamento da sua empresa é totalmente normal e esperado. Você resolve o problema, você aprende, você ganha, sua empresa ganha, todo mundo ganha.
 
-Você tem acesso ao índice bem ao lado do README.md, fiquei sabendo disso agora.
+Você tem acesso ao índice no botão bem ao lado do README.md, fiquei sabendo disso agora.
 
-(((placeholder)))
+![Índice](https://user-images.githubusercontent.com/120118163/228704536-6bd260be-8e0d-4e4b-9a60-a7db119cfb8c.png)
 
 Então, preparado? Comece sua jornada!
 
