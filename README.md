@@ -332,6 +332,9 @@ gem 'faker'
 
 Lembra que eu disse que ler era importante e aprender por conta própria também? Bom, aqui vai material de leitura! Que com certeza te tornará um profissional melhor e mais preparado pro mercado de trabalho!
 
+### [Ruby on Rails Guides](https://guides.rubyonrails.org/index.html)
+Nada melhor do que o guia oficial da framework, não é mesmo? E com a simples proposta de: "Esses guias foram criados para torná-lo imediatamente produtivo com Rails e para ajudá-lo a entender como todas as peças se encaixam." você está em boas mão, com certeza!
+
 ### [Best Practices](https://rubystyle.guide/)
 
 Este guia de estilo Ruby recomenda as melhores práticas para que os programadores Ruby do mundo real possam escrever código que possa ser mantido por outros programadores Ruby do mundo real. Um guia de estilo que reflete o uso real é usado, enquanto um guia de estilo que se apega a um ideal que foi rejeitado pelas pessoas a quem se destina corre o risco de não ser usado de forma alguma - não importa quão bom ele seja.
