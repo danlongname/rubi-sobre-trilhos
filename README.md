@@ -2,6 +2,8 @@
 
 A ideia desse repositório é te guiar pelo mesmo caminho que eu segui e compartilhar minhas experiências. Mas acima de tudo, te dar um norte, não te guiar por todo o caminho de estagiário até especialista.
 
+## Preparando o Ambiente
+
 Vamos começar por preparar o ambiente, conhecer sites com desafios para que você aprenda na prática e também manter as boas práticas usando algumas ferramentas pra isso e guias, porque ler e aprender por conta própria é importante para você crescer nessa área.
 
 Lembre-se que pedir ajuda quando se está completamente perdido e quando se trata de algo específico do funcionamento da sua empresa é totalmente normal e esperado. Você resolve o problema, você aprende, você ganha, sua empresa ganha, todo mundo ganha.
@@ -12,7 +14,7 @@ Você tem acesso ao índice no botão bem ao lado do README.md, fiquei sabendo d
 
 Então, preparado? Comece sua jornada!
 
-## Ativando o WSL no Windows
+### Ativando o WSL no Windows
 
 _Você deve estar executando o Windows 10 versão 2004 e superior (Build 19041 e superior) ou o Windows 11 para usar os comandos abaixo._
 
@@ -42,7 +44,7 @@ Sempre que quiser abrir o WSL, use o Ubuntu pelo menu iniciar, ou crie outro ata
 
 Daqui pra frente, especificarei no heading se o passo é para um OS específico ou para todos.
 
-## Instalando Visual Studio Code
+### Instalando Visual Studio Code
 
 Acesse a [página de downloads do VS Code](https://code.visualstudio.com/download) e selecione a versão específica do seu Sistema Operacional.
 
@@ -58,7 +60,7 @@ Para abrir um projeto pelo VS Code no WSL, execute no terminal Ubuntu:
 code .
 ```
 
-## Instalando Ruby e Rails
+### Instalando Ruby e Rails
 
 Aqui estarei seguindo o tutorial do [GoRails](https://gorails.com/) que parece resolver já alguns problemas que tive tentando instalar ambos por um método que aprendi faz tempo.
 
@@ -115,7 +117,7 @@ asdf global nodejs 18.15.0
 npm install -g yarn
 ```
 
-## Configurando o Git
+### Configurando o Git
 
 ![WSL](https://user-images.githubusercontent.com/120118163/227725997-459c4117-1757-4614-9241-0c592b78142d.png)
 ![Ubuntu](https://user-images.githubusercontent.com/120118163/227726006-510a22a5-7fe6-4c2f-a6bb-08aaf5abc5ad.png)
@@ -146,7 +148,7 @@ Dê um título e cole a chave que está na área de transferência.
 
 Clique em **Add SSH Key**.
 
-## Instalando o Rails
+### Instalando o Rails
 
 ![WSL](https://user-images.githubusercontent.com/120118163/227725997-459c4117-1757-4614-9241-0c592b78142d.png)
 ![Ubuntu](https://user-images.githubusercontent.com/120118163/227726006-510a22a5-7fe6-4c2f-a6bb-08aaf5abc5ad.png)
@@ -162,7 +164,7 @@ gem install rails -v 7.0.4.3
 sudo installer -pkg /Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10.14.pkg -target /
 ```
 
-## Criando e Rodando sua aplicação Ruby on Rails
+### Criando e Rodando sua aplicação Ruby on Rails
 
 ![WSL](https://user-images.githubusercontent.com/120118163/227725997-459c4117-1757-4614-9241-0c592b78142d.png)
 ![Ubuntu](https://user-images.githubusercontent.com/120118163/227726006-510a22a5-7fe6-4c2f-a6bb-08aaf5abc5ad.png)
