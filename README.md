@@ -6,9 +6,11 @@ Vamos começar por preparar o ambiente, conhecer sites com desafios para que voc
 
 Lembre-se que pedir ajuda quando se está completamente perdido e quando se trata de algo específico do funcionamento da sua empresa é totalmente normal e esperado. Você resolve o problema, você aprende, você ganha, sua empresa ganha, todo mundo ganha.
 
-Então, sem mais delongas, vamos ao conteúdo!
+Você tem acesso ao índice bem ao lado do README.md, fiquei sabendo disso agora.
 
-Daqui vamos preparar o ambiente para que você possa ir do zero até rodar o server localmente com o Rails.
+(((placeholder)))
+
+Então, preparado? Comece sua jornada!
 
 ## Ativando o WSL no Windows
 
