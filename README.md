@@ -2,15 +2,15 @@
 
 A ideia desse repositório é te guiar pelo mesmo caminho que eu segui e compartilhar minhas experiências. Mas acima de tudo, te dar um norte, não te guiar por todo o caminho de estagiário até especialista.
 
+Você tem acesso ao índice no botão bem ao lado do README.md, fiquei sabendo disso agora.
+
+![Índice](https://user-images.githubusercontent.com/120118163/228704536-6bd260be-8e0d-4e4b-9a60-a7db119cfb8c.png)
+
 ## Preparando o Ambiente
 
 Vamos começar por preparar o ambiente, conhecer sites com desafios para que você aprenda na prática e também manter as boas práticas usando algumas ferramentas pra isso e guias, porque ler e aprender por conta própria é importante para você crescer nessa área.
 
 Lembre-se que pedir ajuda quando se está completamente perdido e quando se trata de algo específico do funcionamento da sua empresa é totalmente normal e esperado. Você resolve o problema, você aprende, você ganha, sua empresa ganha, todo mundo ganha.
-
-Você tem acesso ao índice no botão bem ao lado do README.md, fiquei sabendo disso agora.
-
-![Índice](https://user-images.githubusercontent.com/120118163/228704536-6bd260be-8e0d-4e4b-9a60-a7db119cfb8c.png)
 
 Então, preparado? Comece sua jornada!
 
