@@ -17,9 +17,7 @@ Esses ícones vão ser seus amigos:
 ![WSL](https://user-images.githubusercontent.com/120118163/227725997-459c4117-1757-4614-9241-0c592b78142d.png)
 ![Ubuntu](https://user-images.githubusercontent.com/120118163/227726006-510a22a5-7fe6-4c2f-a6bb-08aaf5abc5ad.png)
 ![macOS](https://user-images.githubusercontent.com/120118163/227725974-79c96495-bb1e-47c1-9ed6-037c425ca585.png)
-
-Pois vão servir de alerta para quais OS o próximo passo deve ser feito.
-
+Pois vão servir de alerta para quais OS o próximo passo deve ser feito. 
 Então, preparado? Comece sua jornada!
 
 ### Ativando o WSL no Windows
