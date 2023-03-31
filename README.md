@@ -12,9 +12,19 @@ Vamos começar por preparar o ambiente, conhecer sites com desafios para que voc
 
 Lembre-se que pedir ajuda quando se está completamente perdido e quando se trata de algo específico do funcionamento da sua empresa é totalmente normal e esperado. Você resolve o problema, você aprende, você ganha, sua empresa ganha, todo mundo ganha.
 
+Esses ícones vão ser seus amigos:
+![Windows](https://user-images.githubusercontent.com/120118163/227725792-d249cf5f-0410-4d51-b5b1-6b62f776c6f4.png)
+![WSL](https://user-images.githubusercontent.com/120118163/227725997-459c4117-1757-4614-9241-0c592b78142d.png)
+![Ubuntu](https://user-images.githubusercontent.com/120118163/227726006-510a22a5-7fe6-4c2f-a6bb-08aaf5abc5ad.png)
+![macOS](https://user-images.githubusercontent.com/120118163/227725974-79c96495-bb1e-47c1-9ed6-037c425ca585.png)
+
+Pois vão servir de alerta para quais OS o próximo passo deve ser feito.
+
 Então, preparado? Comece sua jornada!
 
 ### Ativando o WSL no Windows
+
+![Windows](https://user-images.githubusercontent.com/120118163/227725792-d249cf5f-0410-4d51-b5b1-6b62f776c6f4.png)
 
 _Você deve estar executando o Windows 10 versão 2004 e superior (Build 19041 e superior) ou o Windows 11 para usar os comandos abaixo._
 
@@ -41,10 +51,6 @@ sudo apt update && sudo apt upgrade
 ```
 
 Sempre que quiser abrir o WSL, use o Ubuntu pelo menu iniciar, ou crie outro atalho para ele.
-
-Daqui pra frente, especificarei no heading se o passo é para um OS específico ou para todos.
-
-
 
 ### Instalando Ruby
 
@@ -144,7 +150,11 @@ Talvez seja óbvio mas eu vou deixar claro que, se estiver usando o Windows com 
 
 Depois de instalar e abrir o VS Code, [instale a extensão para desenvolvimento remoto](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack).
 
-Para abrir um projeto pelo VS Code no WSL, execute no terminal Ubuntu:
+![WSL](https://user-images.githubusercontent.com/120118163/227725997-459c4117-1757-4614-9241-0c592b78142d.png)
+![Ubuntu](https://user-images.githubusercontent.com/120118163/227726006-510a22a5-7fe6-4c2f-a6bb-08aaf5abc5ad.png)
+![macOS](https://user-images.githubusercontent.com/120118163/227725974-79c96495-bb1e-47c1-9ed6-037c425ca585.png)
+
+Para abrir um projeto dentro do VS Code, digite no terminal:
 
 ```bash
 code .
