@@ -44,23 +44,9 @@ Sempre que quiser abrir o WSL, use o Ubuntu pelo menu iniciar, ou crie outro ata
 
 Daqui pra frente, especificarei no heading se o passo é para um OS específico ou para todos.
 
-### Instalando Visual Studio Code
 
-Acesse a [página de downloads do VS Code](https://code.visualstudio.com/download) e selecione a versão específica do seu Sistema Operacional.
 
-Talvez seja óbvio mas eu vou deixar claro que, se estiver usando o Windows com WSL, você vai instalar o VSCode no Windows, não no Ubuntu.
-
-![Windows](https://user-images.githubusercontent.com/120118163/227725792-d249cf5f-0410-4d51-b5b1-6b62f776c6f4.png)
-
-Depois de instalar e abrir o VS Code, [instale a extensão para desenvolvimento remoto](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack).
-
-Para abrir um projeto pelo VS Code no WSL, execute no terminal Ubuntu:
-
-```bash
-code .
-```
-
-### Instalando Ruby e Rails
+### Instalando Ruby
 
 Aqui estarei seguindo o tutorial do [GoRails](https://gorails.com/) que parece resolver já alguns problemas que tive tentando instalar ambos por um método que aprendi faz tempo.
 
@@ -117,37 +103,6 @@ asdf global nodejs 18.15.0
 npm install -g yarn
 ```
 
-### Configurando o Git
-
-![WSL](https://user-images.githubusercontent.com/120118163/227725997-459c4117-1757-4614-9241-0c592b78142d.png)
-![Ubuntu](https://user-images.githubusercontent.com/120118163/227726006-510a22a5-7fe6-4c2f-a6bb-08aaf5abc5ad.png)
-![macOS](https://user-images.githubusercontent.com/120118163/227725974-79c96495-bb1e-47c1-9ed6-037c425ca585.png)
-
-Substitua o username e email por seus próprios da sua conta do Github e já gere a chave ssh para permitir que faça push para seu repositório.
-
-```bash
-git config --global color.ui true
-git config --global user.name "TEUNOMEDEUSUARIO"
-git config --global user.email "TEUEMAILCADASTRADO@NOGIT.COM"
-ssh-keygen -t ed25519 -C "TEUEMAILCADASTRADO@NOGIT.COM"
-```
-
-Pega a chave que acabou de gerar.
-
-```bash
-cat ~/.ssh/id_ed25519.pub
-```
-
-Depois de rodar o comando, a chave vai estar na tela, é só copiar.
-
-Acesse essa página do [Github](https://github.com/settings/ssh).
-
-Clique em: **New SSH Key**.
-
-Dê um título e cole a chave que está na área de transferência.
-
-Clique em **Add SSH Key**.
-
 ### Instalando o Rails
 
 ![WSL](https://user-images.githubusercontent.com/120118163/227725997-459c4117-1757-4614-9241-0c592b78142d.png)
@@ -179,7 +134,52 @@ rails server
 
 Acesse [http://localhost:3000](http://localhost:3000) e veja seu server rodando :)
 
-É isso, agora você já tem tudo preparado pra começar a programar! Mas ainda tenho mais sugestões para você, então, continue lendo!
+### Instalando Visual Studio Code
+
+Acesse a [página de downloads do VS Code](https://code.visualstudio.com/download) e selecione a versão específica do seu Sistema Operacional.
+
+Talvez seja óbvio mas eu vou deixar claro que, se estiver usando o Windows com WSL, você vai instalar o VSCode no Windows, não no Ubuntu.
+
+![Windows](https://user-images.githubusercontent.com/120118163/227725792-d249cf5f-0410-4d51-b5b1-6b62f776c6f4.png)
+
+Depois de instalar e abrir o VS Code, [instale a extensão para desenvolvimento remoto](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack).
+
+Para abrir um projeto pelo VS Code no WSL, execute no terminal Ubuntu:
+
+```bash
+code .
+```
+
+### Configurando o Git
+
+![WSL](https://user-images.githubusercontent.com/120118163/227725997-459c4117-1757-4614-9241-0c592b78142d.png)
+![Ubuntu](https://user-images.githubusercontent.com/120118163/227726006-510a22a5-7fe6-4c2f-a6bb-08aaf5abc5ad.png)
+![macOS](https://user-images.githubusercontent.com/120118163/227725974-79c96495-bb1e-47c1-9ed6-037c425ca585.png)
+
+Substitua o username e email por seus próprios da sua conta do Github e já gere a chave ssh para permitir que faça push para seu repositório.
+
+```bash
+git config --global color.ui true
+git config --global user.name "TEUNOMEDEUSUARIO"
+git config --global user.email "TEUEMAILCADASTRADO@NOGIT.COM"
+ssh-keygen -t ed25519 -C "TEUEMAILCADASTRADO@NOGIT.COM"
+```
+
+Pega a chave que acabou de gerar.
+
+```bash
+cat ~/.ssh/id_ed25519.pub
+```
+
+Depois de rodar o comando, a chave vai estar na tela, é só copiar.
+
+Acesse essa página do [Github](https://github.com/settings/ssh).
+
+Clique em: **New SSH Key**.
+
+Dê um título e cole a chave que está na área de transferência.
+
+Clique em **Add SSH Key**.
 
 ## Guias
 
