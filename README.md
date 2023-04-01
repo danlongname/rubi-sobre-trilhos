@@ -138,26 +138,6 @@ rails server
 
 Acesse [http://localhost:3000](http://localhost:3000) e veja seu server rodando :)
 
-### Instalando Visual Studio Code
-
-Acesse a [página de downloads do VS Code](https://code.visualstudio.com/download) e selecione a versão específica do seu Sistema Operacional.
-
-Talvez seja óbvio mas eu vou deixar claro que, se estiver usando o Windows com WSL, você vai instalar o VSCode no Windows, não no Ubuntu.
-
-![Windows](https://user-images.githubusercontent.com/120118163/227725792-d249cf5f-0410-4d51-b5b1-6b62f776c6f4.png)
-
-Depois de instalar e abrir o VS Code, [instale a extensão para desenvolvimento remoto](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack).
-
-![WSL](https://user-images.githubusercontent.com/120118163/227725997-459c4117-1757-4614-9241-0c592b78142d.png)
-![Ubuntu](https://user-images.githubusercontent.com/120118163/227726006-510a22a5-7fe6-4c2f-a6bb-08aaf5abc5ad.png)
-![macOS](https://user-images.githubusercontent.com/120118163/227725974-79c96495-bb1e-47c1-9ed6-037c425ca585.png)
-
-Para abrir um projeto dentro do VS Code, digite no terminal:
-
-```bash
-code .
-```
-
 ### Configurando o Git
 
 ![WSL](https://user-images.githubusercontent.com/120118163/227725997-459c4117-1757-4614-9241-0c592b78142d.png)
@@ -188,6 +168,26 @@ Clique em: **New SSH Key**.
 Dê um título e cole a chave que está na área de transferência.
 
 Clique em **Add SSH Key**.
+
+### Instalando Visual Studio Code
+
+Acesse a [página de downloads do VS Code](https://code.visualstudio.com/download) e selecione a versão específica do seu Sistema Operacional.
+
+Talvez seja óbvio mas eu vou deixar claro que, se estiver usando o Windows com WSL, você vai instalar o VSCode no Windows, não no Ubuntu.
+
+![Windows](https://user-images.githubusercontent.com/120118163/227725792-d249cf5f-0410-4d51-b5b1-6b62f776c6f4.png)
+
+Depois de instalar e abrir o VS Code, [instale a extensão para desenvolvimento remoto](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack).
+
+![WSL](https://user-images.githubusercontent.com/120118163/227725997-459c4117-1757-4614-9241-0c592b78142d.png)
+![Ubuntu](https://user-images.githubusercontent.com/120118163/227726006-510a22a5-7fe6-4c2f-a6bb-08aaf5abc5ad.png)
+![macOS](https://user-images.githubusercontent.com/120118163/227725974-79c96495-bb1e-47c1-9ed6-037c425ca585.png)
+
+Para abrir um projeto dentro do VS Code, digite no terminal:
+
+```bash
+code .
+```
 
 ## Guias
 
