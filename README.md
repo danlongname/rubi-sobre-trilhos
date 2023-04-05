@@ -189,7 +189,7 @@ Para abrir um projeto dentro do VS Code, digite no terminal:
 code .
 ```
 
-## Guias
+## Guias Externos
 
 Ler e aprender por conta própria é extremamente importante! Lá vêm material de leitura! Que com certeza te tornará um profissional melhor e mais preparado pro mercado de trabalho!
 
