@@ -189,22 +189,6 @@ Para abrir um projeto dentro do VS Code, digite no terminal:
 code .
 ```
 
-## Guias Externos
-
-Ler e aprender por conta própria é extremamente importante! Lá vêm material de leitura! Que com certeza te tornará um profissional melhor e mais preparado pro mercado de trabalho!
-
-### [Ruby on Rails Guides](https://guides.rubyonrails.org/index.html)
-
-Nada melhor do que o guia oficial da framework, não é mesmo? E com a simples proposta de: "Esses guias foram criados para torná-lo imediatamente produtivo com Rails e para ajudá-lo a entender como todas as peças se encaixam." você está em boas mãos, com certeza! Por isso, ignoramos a ordem alfabética aqui e colocamos o guia oficial acima dos guias de boas práticas.
-
-### [Best Practices](https://rubystyle.guide/)
-
-Este guia de estilo Ruby recomenda as melhores práticas para que os programadores Ruby do mundo real possam escrever código que possa ser mantido por outros programadores Ruby do mundo real. Um guia de estilo que reflete o uso real é usado, enquanto um guia de estilo que se apega a um ideal que foi rejeitado pelas pessoas a quem se destina corre o risco de não ser usado de forma alguma - não importa quão bom ele seja.
-
-### [Better Specs](https://www.betterspecs.org/)
-
-Better Specs é uma coleção de melhores práticas que os desenvolvedores aprenderam enquanto testavam aplicativos que você pode usar para melhorar suas habilidades de codificação ou simplesmente para inspiração. Better Specs nasceu na Lelylan (plataforma de nuvem IoT de código aberto) e verificar sua suíte de teste pode ser inspirador.
-
 ## Cursos e Bootcamps
 
 Para entrar na área eu fiz um treinamento de imersão web pela [Campus Code](https://www.campuscode.com.br/), participando do programa [TreinaDev](https://treinadev.com.br/). Aprender com prática foi um método muito eficaz pra mim, então está no topo das recomendações, entretanto, você precisa ficar atento para a abertura de novas turmas e competir com outros aspirantes a desenvolvedores para seguir no programa.
@@ -220,6 +204,22 @@ Curso online gratuito de desenvolvimento web completo, que inclui módulos sobre
 ### [OneBitCode](https://onebitcode.com/lp/)
 
 O One Bit Code oferece diversos cursos gratuitos sobre Ruby e Ruby on Rails, com aulas em vídeo e exercícios práticos. É possível aprender desde os conceitos básicos até temas avançados, como desenvolvimento de APIs e aplicações em tempo real. Você pode também aprender com o minicurso de [Minicurso de Testes para Ruby on Rails com RSpec](https://onebitcode.com/course/minicurso-de-testes/), muito recomendado.
+
+## Guias Externos
+
+Ler e aprender por conta própria é extremamente importante! Lá vêm material de leitura! Que com certeza te tornará um profissional melhor e mais preparado pro mercado de trabalho!
+
+### [Ruby on Rails Guides](https://guides.rubyonrails.org/index.html)
+
+Nada melhor do que o guia oficial da framework, não é mesmo? E com a simples proposta de: "Esses guias foram criados para torná-lo imediatamente produtivo com Rails e para ajudá-lo a entender como todas as peças se encaixam." você está em boas mãos, com certeza! Por isso, ignoramos a ordem alfabética aqui e colocamos o guia oficial acima dos guias de boas práticas.
+
+### [Best Practices](https://rubystyle.guide/)
+
+Este guia de estilo Ruby recomenda as melhores práticas para que os programadores Ruby do mundo real possam escrever código que possa ser mantido por outros programadores Ruby do mundo real. Um guia de estilo que reflete o uso real é usado, enquanto um guia de estilo que se apega a um ideal que foi rejeitado pelas pessoas a quem se destina corre o risco de não ser usado de forma alguma - não importa quão bom ele seja.
+
+### [Better Specs](https://www.betterspecs.org/)
+
+Better Specs é uma coleção de melhores práticas que os desenvolvedores aprenderam enquanto testavam aplicativos que você pode usar para melhorar suas habilidades de codificação ou simplesmente para inspiração. Better Specs nasceu na Lelylan (plataforma de nuvem IoT de código aberto) e verificar sua suíte de teste pode ser inspirador.
 
 ## Noções desejáveis
 
