@@ -77,7 +77,7 @@ Instale o ASDF, que é um gerenciador de versões.
 
 ```bash
 cd
-git clone https://github.com/excid3/asdf.git ~/.asdf
+git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.11.3
 echo '. "$HOME/.asdf/asdf.sh"' >> ~/.bashrc
 echo '. "$HOME/.asdf/completions/asdf.bash"' >> ~/.bashrc
 echo 'legacy_version_file = yes' >> ~/.asdfrc
