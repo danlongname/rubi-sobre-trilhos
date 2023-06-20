@@ -1,5 +1,6 @@
-Se algo não estiver funcionando, por favor, me avise! Mande um email para: `dev.dansilva@gmail.com` com os detalhes!+
-Eu não posso checar regularmente se tudo está funcionando como deveria :(
+Se algo não estiver funcionando, por favor, me avise! Mande um email com os detalhes para:
+```dev.dansilva@gmail.com```
+O que funcionou aqui pode não funcionar aí.
 
 # Estação de Origem
 
