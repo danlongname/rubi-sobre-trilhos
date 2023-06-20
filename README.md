@@ -1,3 +1,6 @@
+Se algo não estiver funcionando, por favor, me avise! Mande um email para: `dev.dansilva@gmail.com` com os detalhes!+
+Eu não posso checar regularmente se tudo está funcionando como deveria :(
+
 # Estação de Origem
 
 A ideia desse repositório é te guiar pelo mesmo caminho que eu segui e compartilhar minhas experiências. Mas acima de tudo, te dar um norte, não te guiar por todo o caminho de estagiário até especialista.
