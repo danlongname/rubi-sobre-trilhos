@@ -280,7 +280,7 @@ Tiradas do nosso querido ChatGPT, essas seriam noções que variam de básicas, 
 
 Você definitivamente não está sozinho e com essas comunidades abaixo estará em boa companhia!
 
-### Discord: Developando
+### Servidor de Discord: [Developando](https://discord.gg/das6zhXNsJ)
 
 >🌐 Venham fazer parte do nosso servidor para Programadores Web! 🚀
 >
