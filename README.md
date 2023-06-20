@@ -221,6 +221,18 @@ Este guia de estilo Ruby recomenda as melhores práticas para que os programador
 
 Better Specs é uma coleção de melhores práticas que os desenvolvedores aprenderam enquanto testavam aplicativos que você pode usar para melhorar suas habilidades de codificação ou simplesmente para inspiração. Better Specs nasceu na Lelylan (plataforma de nuvem IoT de código aberto) e verificar sua suíte de teste pode ser inspirador.
 
+## Exercitando
+
+Além de seguir os cursos, guias e tutoriais, existem sites focados apenas em exercícios para aprimorar seus conhecimentos de programação.
+
+### [Exercism](https://exercism.org/)
+
+O Exercism.org é uma plataforma online que oferece exercícios práticos de programação em várias linguagens. Os usuários podem resolver desafios e receber feedback dos mentores e da comunidade. É um recurso útil para aprimorar habilidades de programação através da prática.
+
+### [CodeWars](https://www.codewars.com/)
+
+O Codewars é uma plataforma online de desafios de programação, onde os usuários podem aprimorar suas habilidades de codificação em várias linguagens. Ao resolver problemas, os usuários ganham pontos e avançam em uma classificação chamada "kyu". Com uma comunidade ativa, o Codewars oferece uma oportunidade de aprendizado prático, permitindo que os usuários testem suas habilidades em uma variedade de desafios e interajam com outros desenvolvedores.
+
 ## Noções desejáveis
 
 Tiradas do nosso querido ChatGPT, essas seriam noções que variam de básicas, intermediárias e avançadas que seriam muito bom obter para se tornar um bom desenvolvedor Ruby on Rails.
@@ -267,6 +279,16 @@ Tiradas do nosso querido ChatGPT, essas seriam noções que variam de básicas, 
 ## Comunidade
 
 Você definitivamente não está sozinho e com essas comunidades abaixo estará em boa companhia!
+
+### Discord: Developando
+
+>Venho por meio deste servidor de galantes galudos  fazer um convite espacial
+>🌐 Venham fazer parte do nosso servidor para Programadores Web! 🚀
+>
+>Junte-se a nós em uma comunidade dinâmica e acolhedora, onde você pode aprender e compartilhar conhecimentos sobre diversas tecnologias web, como HTML5, CSS3, >JavaScript, Bootstrap, Angular e React. Além de canais de discussão, oferecemos salas com exercícios práticos para aprimorar suas habilidades. Também >compartilhamos dicas e recursos úteis para implementar em seus projetos. Faça parte de uma comunidade ativa, onde você pode fazer networking e colaborar em >projetos interessantes. Todos são bem-vindos, desde iniciantes até profissionais experientes. Junte-se a nós e mergulhe no mundo do desenvolvimento web!
+>
+>https://discord.gg/das6zhXNsJ
+- Sergio Costa, ADM do servidor
 
 ### [Ruby Brasil](https://t.me/rubybrasil)
 
