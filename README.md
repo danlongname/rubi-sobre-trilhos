@@ -287,7 +287,7 @@ Você definitivamente não está sozinho e com essas comunidades abaixo estará 
 >Junte-se a nós em uma comunidade dinâmica e acolhedora, onde você pode aprender e compartilhar conhecimentos sobre diversas tecnologias web, como HTML5, CSS3, >JavaScript, Bootstrap, Angular e React. Além de canais de discussão, oferecemos salas com exercícios práticos para aprimorar suas habilidades. Também >compartilhamos dicas e recursos úteis para implementar em seus projetos. Faça parte de uma comunidade ativa, onde você pode fazer networking e colaborar em >projetos interessantes. Todos são bem-vindos, desde iniciantes até profissionais experientes. Junte-se a nós e mergulhe no mundo do desenvolvimento web!
 >
 >https://discord.gg/das6zhXNsJ
-- Sergio Costa, ADM do servidor
+-- Sergio Costa, ADM do servidor
 
 ### [Ruby Brasil](https://t.me/rubybrasil)
 
